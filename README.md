@@ -1,2 +1,8 @@
-# potfolio
-This was my first project a simple potfolio webpage using html , css and i am going to build more and more project to develop my skill
+ ## About
+
+This is a simple personal portfolio website developed using HTML and CSS. The project includes two pages:
+
+- **Portfolio** – Displays my introduction and portfolio.
+- **Contact** – Provides contact information.
+
+This project was created to practice the fundamentals of front-end web development, including HTML structure, CSS styling, and responsive design principles.
